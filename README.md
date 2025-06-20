@@ -35,6 +35,8 @@
 
 - 🔗 [TrainMate](https://github.com/Hitesh-09/TrainMate) — Your AI co-pilot for learning journeys
 - 🚩 Team Envision Project — Making teamwork smarter and more fun
+- 💧 SipWise - Daily water intake tracker
+- 🚗 RoadRage - Road safety initiative game
 
 ---
 
@@ -59,8 +61,8 @@
 
 - 🕹️ Creating 2D & 3D games and animations in **Unreal Engine**
 - 🎬 Bringing ideas to life with code and creativity
-- 🎧 Music production & DJing (yes, I mix beats and code both!)
-- 🗣️ Public speaking, teamwork, and building creative communities
+- 💥 Crafting solution for real world problems with code
+- ⚽️ Playing games and win them
 
 ---
 
