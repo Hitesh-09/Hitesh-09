@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Boy Coding Night Cool" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Animated Coding" />
 </p>
 
 <p align="center">
