@@ -19,23 +19,16 @@
 
 ### 👨‍💻 About Me
 
-- **Game & Web Developer (2D/3D Animation Creator)**  
-  Designing 2D/3D worlds where imagination meets code. Every pixel and polygon crafted to spark wonder!
-- **Always experimenting with Unreal Engine and building engaging experiences!**  
-  Fuelled by Unreal Engine and curiosity—constantly building immersive, interactive experiences that blend art and tech.
-- **Exploring web, game, and mobile dev with C++, C#, Flutter, HTML/JS/CSS**  
-  I love learning new stacks and combining them for impactful projects.
-- **Currently learning about Backend, APIs, and Full-stack frameworks**  
-  Always upskilling to bridge front-end magic with back-end power.
-- **Open to collaborating on Open Source, AR/VR, and Innovative Ideas**  
-  Love working on bold ideas that inspire and challenge.
-- **Passionate about blending code and creativity**  
-  I believe technology should feel magical—making art and logic dance together.
-- **Ask me about Game Engines, or UI/UX**  
-  Always up for a chat on innovative design or building seamless player experiences!
-- **How to reach me:** [officialhitesh93@gmail.com](mailto:officialhitesh93@gmail.com)
-- **Fun fact:**  
-  When I build games, I’m not just writing code—I’m crafting playgrounds for the imagination. My favorite moments are when logic, art, and storytelling come together to create those “wow” reactions for players!
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+
+- 🎮 **Game & Web Developer (2D/3D Animation Creator)**
+- 🌌 Designing interactive worlds where imagination meets code
+- 🛠️ Exploring with **Unreal Engine**, C++, C#, Flutter, HTML/JS/CSS
+- 🚀 Always learning: backend, APIs, full-stack frameworks
+- 🤝 Love collaborating on **Open Source, AR/VR, and creative ideas**
+- 🎨 Blending code & creativity to make technology magical
+- 💬 Ask me about **Game Engines** or **UI/UX**
+- 📫 Reach me at: [officialhitesh93@gmail.com](mailto:officialhitesh93@gmail.com)
 
 ---
 
