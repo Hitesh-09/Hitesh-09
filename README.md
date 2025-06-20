@@ -19,7 +19,6 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 - 🎮 **Game & Web Developer (2D/3D Animation Creator)**
 - 🌌 Designing interactive worlds where imagination meets code
