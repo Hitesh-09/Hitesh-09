@@ -87,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="400" alt="Animated Coding" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Animated Coding" />
 </p>
 
 <p align="center">
