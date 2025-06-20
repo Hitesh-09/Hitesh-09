@@ -6,7 +6,8 @@
 <h3 align="center">Game/Web Developer | Animation Creator | Tech Explorer | India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=14D6F9&center=true&vCenter=true&width=500&lines=Game+%26+Web+Developer;Animation+Enthusiast;Playful+Coder;Full-stack Explorer" alt="Typing Animation" />
+  <!-- New typing animation with cursor effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Game+%26+Web+Developer;Animation+Enthusiast;Let%27s+build+something+amazing." alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -86,7 +87,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Animated Coding" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="400" alt="Animated Coding" />
 </p>
 
 <p align="center">
