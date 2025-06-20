@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 ### 👨‍💻 About Me
 
@@ -84,10 +84,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Cozy Boy Coding" />
-</p>
 
 <p align="center">
   <b>Let’s turn imagination into reality, one line of code at a time!</b>
