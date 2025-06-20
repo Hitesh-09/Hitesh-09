@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Animated Coding" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="400" alt="Cozy Boy Coding" />
 </p>
 
 <p align="center">
