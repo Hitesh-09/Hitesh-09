@@ -6,7 +6,6 @@
 <h3 align="center">Game/Web Developer | Animation Creator | Tech Explorer | India</h3>
 
 <p align="center">
-  <!-- New typing animation with cursor effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Game+%26+Web+Developer;Animation+Enthusiast;Let%27s+build+something+amazing." alt="Typing Animation" />
 </p>
 
@@ -87,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400" alt="Animated Coding" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Boy Coding Night Cool" />
 </p>
 
 <p align="center">
