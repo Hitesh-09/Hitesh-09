@@ -5,17 +5,7 @@
 </h1>
 <h3 align="center">Game/Web Developer | Animation Creator | Tech Explorer | India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&duration=2000&pause=700&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;Game+%26+Web+Developer;Animation+Enthusiast;Let%27s+build+something+amazing." alt="Typing Animation" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hitesh-09&theme=gruvbox&margin-w=15" alt="Profile Trophy" />
-</p>
-
----
-
-<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx0cDV0OXQxNTJrNmp6MnAzZmt4bXloMW5vODRoc2Mxa2ZodnlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 ### 👨‍💻 About Me
 
